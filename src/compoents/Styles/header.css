@@ -1,0 +1,24 @@
+
+.header-section {
+    background-color:lightgreen;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+
+  }
+  .title{
+    font-size: larger;
+    color: darkgreen;
+    font-weight: 600;
+  }
+  .lt-btn{
+    border: none;
+    font-weight: 400;
+    color: white;
+    padding: 5px 15px; 
+    border-radius: 17px;
+    font-size: 14px; 
+    background-color: #185003;
+  }
+  
